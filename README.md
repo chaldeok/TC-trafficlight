@@ -1,10 +1,10 @@
 # SPA trafficlight emulator
 ---
 The application emulates trafficlight and has 3 screens:
----
-Screen 1: Red on (green and yellow is off)
-Screen 2: Yellow on (green and red is off)
-Screen 3: Green on (red and yellow dim is off)
+
+* Screen 1: Red on (green and yellow is off)
+* Screen 2: Yellow on (green and red is off)
+* Screen 3: Green on (red and yellow dim is off)
 ---
 moving between screens happens without reloading the page.
 ---
