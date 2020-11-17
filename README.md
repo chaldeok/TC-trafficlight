@@ -13,7 +13,7 @@ moving between screens happens without reloading the page.
 
 **Stack: Vue.js, Vue Router, JS, SCSS, HTML**
 
-Demo of the project is available [here](http://trafficlight.vladchoi.beget.tech)
+_Demo of the project is available_ [here](http://trafficlight.vladchoi.beget.tech)
 
 ### Download the repository and to install dependencies run command below in the root of the project
 ```
