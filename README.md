@@ -6,13 +6,13 @@ The application emulates trafficlight and has 3 screens:
 * Screen 2: Yellow on (green and red is off)
 * Screen 3: Green on (red and yellow dim is off)
 moving between screens happens without reloading the page.
----
+
 **Additional features**
 * timer showing how many seconds are left before the traffic signal changes.
 * blinking of the traffic light 3 seconds before the color change.
----
-**Stack: Vue.js, Vue Router, JS, SCSS, HTML**
 
+**Stack: Vue.js, Vue Router, JS, SCSS, HTML**
+---
 ### Demo of the project is available here
 ```
 (http://trafficlight.vladchoi.beget.tech)
