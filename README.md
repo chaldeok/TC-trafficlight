@@ -1,5 +1,5 @@
 # SPA trafficlight emulator
-<hr>
+---
 The application emulates trafficlight and has 3 screens:
 ---
 Screen 1: Red on (green and yellow is off)
@@ -16,7 +16,7 @@ moving between screens happens without reloading the page.
 
 ### Demo of the project is available here
 ```
-<http://trafficlight.vladchoi.beget.tech>
+(http://trafficlight.vladchoi.beget.tech)
 ```
 
 ### Download the repository and to install dependencies run command below in the root of the project
